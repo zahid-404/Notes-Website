@@ -50,7 +50,7 @@ For styling, use [Flowbite](https://flowbite.com/) or `TailwindCSS`
 
 ## Feedback
 
-If you have any feedback, please reach out to me at zahidmohammad@gmail.com
+If you have any feedback, please reach out to me at zahidmohammad495@gmail.com
 
 
 ## Lessons Learned
